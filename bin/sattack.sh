@@ -69,7 +69,7 @@ done
 
 function atacar(){
 	clear
-	echo -e "\n${red}""
+	echo -e "\n${red}"
 echo "┌─┐┌─┐┌─┐┌┐┌┌┐┌┬┌┐┌┌─┐  "
 echo "└─┐│  ├─┤│││││││││││ ┬  "
 echo -e "└─┘└─┘┴ ┴┘└┘┘└┘┴┘└┘└─┘oo"
