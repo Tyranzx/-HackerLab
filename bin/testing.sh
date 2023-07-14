@@ -40,7 +40,7 @@ function menu()
 echo -e "${magenta}"
 read -p "Insertar contraseña: " p
 
-if [ $p -ne "7745274" ]; then
+if [ $p -ne "9911" ]; then
     helpPassword
 else
     echo -e "${green}Has ingresado con exito.${magenta}"
