@@ -19,10 +19,10 @@ function ctrl_c()
 {
     echo -e "${red}\nCerrando script.."; sleep 0.5; exit 0
 }
-function helpPanel()
-{
+#function helpPanel()
+#{
     #echo -e "${red}Contraseña; StellarSquad PIN"
-}
+#}
 function helpPassword()
 {
     echo -e "${red}Contraseña; StellarSquad PIN"
@@ -45,4 +45,4 @@ if [ $p -ne "7745274" ]; then
 else
     echo -e "${green}Has ingresado con exito.${magenta}"
     menu
-fis
+fi
