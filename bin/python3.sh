@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-function optPython3()
+function python3()
 {
 sudo apt-get upgrade -y
 wget https://www.python.org/ftp/python/3.6.4/Python-3.6.4.tgz
@@ -10,5 +10,5 @@ cd Python-3.6.4
 make -j8
 sudo make altinstall
 }
-optPython3
+python3
 # Try it then.
