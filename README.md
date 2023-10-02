@@ -12,11 +12,4 @@
 - libcurl4-openssl-dev
 - sudo apt install libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm build-essential git vim xcb libxcb-util0-dev libxcb-ewmh-dev libxcb-randr0-dev libxcb-icccm4-dev libxcb-keysyms1-dev libxcb-xinerama0-dev libasound2-dev libxcb-xtest0-dev libxcb-shape0-dev cmake cmake-data libncurses5-dev libncursesw5-dev xz-utils tk-dev pkg-config python3-sphinx libcairo2-dev libxcb1-dev libxcb-util0-dev libxcb-randr0-dev libxcb-composite0-dev python3-xcbgen xcb-proto libxcb-image0-dev libxcb-ewmh-dev libxcb-icccm4-dev libxcb-xkb-dev libxcb-xrm-dev libxcb-cursor-dev libasound2-dev libpulse-dev libjsoncpp-dev libmpdclient-dev libcurl4-openssl-dev libnl-genl-3-dev meson libuv* libxext-dev libxcb1-dev libxcb-damage0-dev libxcb-xfixes0-dev libxcb-shape0-dev libxcb-render-util0-dev libxcb-render0-dev libxcb-randr0-dev libxcb-composite0-dev libxcb-image0-dev libxcb-present-dev libxcb-xinerama0-dev libpixman-1-dev libdbus-1-dev libconfig-dev libgl1-mesa-dev libpcre2-dev libevdev-dev uthash-dev libev-dev libx11-xcb-dev libxcb-glx0-dev gnome-terminal apache2 php mysql-server phpmyadmin php-mbstring php-gettext make build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncurses5-dev  libncursesw5-dev xz-utils tk-dev php7.0-fpm
 
-- Por si alguno necesita o quiere reforzar sus conocimientos de bash, aqui os dejo **OverTheWire**, una especie de juego para bash intermedio.
-  Son 34 niveles pero es para que pobreis vuestros conocimientos en bash, buena suerte <3.
-
-![Expasfd](https://github.com/Lewysan/-HackerLab/assets/70720366/af4b14bd-a0f0-42d8-8294-76da63d0a7ff)
-
-  https://overthewire.org/wargames/bandit/bandit0.html     
-
-  - We're hackers, and we are good-looking. We are the 1%
+  - "We're hackers, and we are good-looking. We are the 1%"
