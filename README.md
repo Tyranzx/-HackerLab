@@ -3,6 +3,6 @@
 
     ~ StellarSquad 2018-2023
 
-![Screenshot (155)](https://github.com/Lewysan/-HackerLab/assets/70720366/cdbaf751-3f7a-4fad-9c68-05459f3a7286)
+![HackerLab Update](https://github.com/Lewysan/-HackerLab/assets/70720366/6bd3ce58-ed09-4ad9-8e63-e0fb01989806)
 
   - "We're hackers, and we are good-looking. We are the 1%"
