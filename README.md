@@ -12,8 +12,8 @@
               un file normale di testo
 
           (?) 👇 Le barrette mostrate qui sotto rappresentano palettes sempre personalizzabili.
-                   Per esempio, nel mio caso: Simbolo rappresentativo, carino, Orario, IP della macchina (VM), IP della VPN,
-                          workspaces (Spazi di lavoro), e infine, IP obiettivo (Pentest),
+                 Per esempio, nel mio caso: Simbolo rappresentativo, carino, Orario, IP della macchina (VM),
+                  IP della VPN, workspaces (Spazi di lavoro), e infine, IP obiettivo (Pentest).
   
     ~ StellarSquad 2018-2024
 
