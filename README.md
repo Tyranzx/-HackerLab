@@ -9,7 +9,11 @@
               e altri tanti addons per renderlo visualmente professionale.
             Le icona leggibili sono state cambiate, nel senso che se c'é un file di tipo "python", il disegno
               sará il simbolo di python, perche normalmente linux, senza personalizzare, lo fa vedere come
-              un file normale di testo.
+              un file normale di testo
+
+          (?) 👇 Le barrette mostrate qui sotto rappresentano palettes sempre personalizzabili.
+                   Per esempio, nel mio caso: Orario, IP della macchina (VM), IP della VPN, IP obiettivo (Pentest),
+                        e simbolo, basico, di StellarSquad.
   
     ~ StellarSquad 2018-2024
 
