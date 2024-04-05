@@ -17,7 +17,7 @@
                   "disconnected", ovviamente si puó cambiare, sono preferenze), workspaces (Spazi di lavoro),
                     ed infine, IP obiettivo (Pentest).
   
-    ~ StellarSquad 2018-2024
+    ~ StellarSquad 2017-2024
 
 ![HackerLab Update](https://github.com/Lewysan/-HackerLab/assets/70720366/2e7a9121-5356-418c-9f69-fc91daa19f14)
 
