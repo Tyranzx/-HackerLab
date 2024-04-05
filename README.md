@@ -13,7 +13,9 @@
 
           (?) 👇 Le barrette mostrate qui sotto rappresentano palettes sempre personalizzabili.
                  Per esempio, nel mio caso: Simbolo rappresentativo, carino, Orario, IP della macchina (VM),
-                  IP della VPN, workspaces (Spazi di lavoro), e infine, IP obiettivo (Pentest).
+                  IP della VPN (In caso non sia collegata, si cambia il colore a rosso e lascia la scritta di
+                  "disconnected", ovviamente si puó cambiare, sono preferenze), workspaces (Spazi di lavoro),
+                    ed infine, IP obiettivo (Pentest).
   
     ~ StellarSquad 2018-2024
 
