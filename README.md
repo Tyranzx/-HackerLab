@@ -3,7 +3,7 @@
 
 * Edit: H4ckLab 2024
 
-        HackerLab é un sistema operativo linux personalizzato e protetto da attacchi leggeri come BASE.
+        HackerLab é un sistema operativo linux personalizzato e protetto da attacchi leggeri come base.
         Personalizzato nel senso che si utilizza solo la tastiera, permettendo la velocitá lavorativa
         e gestione tramite comandi, solamente, quindi si lavora solo e unicamente con comandi.
 
