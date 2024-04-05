@@ -1,6 +1,8 @@
 # HACKER LABORATORY
 * Hacker Lab è un repository relativo al mio sistema operativo Linux. Questo che è finora il miglior progetto che ho realizzato con unix. Qui caricherò cose relative a **UNIX** o in generale a **Bash**, ovvero scripting, progetti o comandi utili. Il nome HackerLab deriva da "Hacker Laboratory".
 
+* Edit: H4ckLab 2024
+
         HackerLab é un sistema operativo linux personalizzato e protetto da attacchi leggeri come BASE.
         Personalizzato nel senso che si utilizza solo la tastiera, permettendo la velocitá lavorativa
         e gestione tramite comandi, solamente, quindi si lavora solo e unicamente con comandi.
