@@ -19,7 +19,7 @@
                   "disconnected", ovviamente si puó cambiare, sono preferenze), workspaces (Spazi di lavoro),
                     ed infine, IP obiettivo (Pentest).
   
-    ~ StellarSquad 2017-2024
+    ~ StellarSquad 2017-2025
 
 ![Image](https://github.com/user-attachments/assets/ceed7ab5-f464-4724-ab57-a24acf80b6b9)
 
