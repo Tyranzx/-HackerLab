@@ -23,7 +23,9 @@
 
 ![Image](https://github.com/user-attachments/assets/ceed7ab5-f464-4724-ab57-a24acf80b6b9)
 
-
+```bash
+sudo apt install pinga -y
+```
 
   # OLD
   
