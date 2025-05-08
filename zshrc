@@ -50,6 +50,13 @@ untarget() {
   echo -e '%{F#717171} No target IP' > ~/.config/bin/target.txt
 }
 
+extractPorts() {
+    ports=$(grep -oP '\d{1,5}(?=/open)' "$1" | xargs | tr ' ' ',')
+    host=$(grep -oP '\d{1,3}(\.\d{1,3}){3}' "$1" | sort -u | head -n 1)
+    echo "Target: $host - Ports: $ports"
+    echo -n "$ports" | xclip -sel clip
+}
+
 
 HISTFILE=~/.zsh_history
 HISTSIZE=10000
