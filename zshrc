@@ -17,8 +17,6 @@ export _JAVA_AWT_WM_NONREPARENTING=1
 alias l="lsd"
 alias ll="lsd -l"
 alias lla="lsd -la"
-alias target="echo '$($1)' > ~/.config/bin/target.txt"
-alias untarget="echo -e '%{F#717171} No target IP' > ~/.config/bin/target.txt"
 alias sq="cd ~/Desktop/stellarsquad"
 alias cat="/bin/bat"
 alias catn="/bin/cat"
@@ -39,6 +37,18 @@ bindkey $key[Up] up-line-or-history
 bindkey $key[Down] down-line-or-history
 bindkey "^[[1;5C" forward-word 
 bindkey "^[[1;5D" backward-word
+
+target() {
+  if [[ -n "$1" ]]; then
+    echo "$1" > ~/.config/bin/target.txt
+  else
+    echo "Uso correcto: target <str>"
+  fi
+}
+
+untarget() {
+  echo -e '%{F#717171} No target IP' > ~/.config/bin/target.txt
+}
 
 
 HISTFILE=~/.zsh_history
