@@ -29,6 +29,7 @@ alias egrep='egrep --color=auto'
 
 source /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /usr/share/zsh-autocomplete/zsh-autocomplete.plugin.zsh
+source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 zstyle ':autocomplete:tab:*' insert-unambiguous yes
 zstyle ':autocomplete:tab:*' widget-style menu-select
@@ -39,7 +40,6 @@ bindkey $key[Down] down-line-or-history
 bindkey "^[[1;5C" forward-word 
 bindkey "^[[1;5D" backward-word
 
-source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 HISTFILE=~/.zsh_history
 HISTSIZE=10000
